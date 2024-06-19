@@ -32,7 +32,7 @@ Console.WriteLine("Hello, World!");
 
 // Démo StringBuilder
 
-const int NB_COUNT = 10_000;
+const int NB_COUNT = 100_000;
 
 Stopwatch sw1 = new Stopwatch();
 Stopwatch sw2 = new Stopwatch();
