@@ -87,4 +87,3 @@ Console.WriteLine("*****************\n");
     Console.Write($"Autre solution : {string.Join(" > ", names)}");
 }
 Console.WriteLine();
-
